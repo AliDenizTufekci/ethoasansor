@@ -1,4 +1,4 @@
-package com.mycompany.haftagun;
+package com.mycompany.ethoilkodevler;
  
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.mycompany.pone;
+package com.mycompany.ethoilkodevler;
 
 import java.util.Scanner;
 
