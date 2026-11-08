@@ -4,7 +4,7 @@
 **Numara:722**
 
 ## 1. Problemin Açıklaması
-<!--Bir binadaki asansörün yönetim mekanizması , asansörün 1'den 10'a kadar olan katlarda hem aşağı hem yukarı yönlü olarak yolcu taşıyabilmesini sağlamalıdır. Bunun için önce mevcut kat verisi alıp , sonra hedef kat verisi alıp , sonra gitmesi gereken yönü ve mesafeyi hesaplayıp bunları ve her defasında geçilen katları tek tek sorunsuz bir şekilde çıktı vermelidir. Ayrıca girilen kat değerlerinden herhangi biri 1'den küçük ya da 10'dan büyük ise hata verip bitirmelidir. Problemi kendi cümlelerinizle yazın. -->
+<--"Bir binadaki asansörün yönetim mekanizması , asansörün 1'den 10'a kadar olan katlarda hem aşağı hem yukarı yönlü olarak yolcu taşıyabilmesini sağlamalıdır. Bunun için önce mevcut kat verisi alıp , sonra hedef kat verisi alıp , sonra gitmesi gereken yönü ve mesafeyi hesaplayıp bunları ve her defasında geçilen katları tek tek sorunsuz bir şekilde çıktı vermelidir. Ayrıca girilen kat değerlerinden herhangi biri 1'den küçük ya da 10'dan büyük ise hata verip bitirmelidir. Problemi kendi cümlelerinizle yazın." -->
 
 
 ## 2. Girdi - İşlem - Çıktı
@@ -58,4 +58,4 @@
 | -2 | 4 | Geçersiz mevcut kat |"asansorun gidebilecegi katlar arasinda boyle bir kat yoktir,baska bir vasita araci bulunuz." |evet |
 
 ## 6. Ekstra Görev (Opsiyonel)
-<--!output-geçilen katların sırayla eş zamanlı yazımı:gecilen kat3katidir.gecilen kat4katidir.gecilen kat5katidir.gecilen kat6katidir.gecilen kat7katidir.gecilen kat8katidir. 3 -> 8 için geçilen katların çıktısını buraya yapıştırın. -->
+<--output-geçilen katların sırayla eş zamanlı yazımı:gecilen kat3katidir.gecilen kat4katidir.gecilen kat5katidir.gecilen kat6katidir.gecilen kat7katidir.gecilen kat8katidir.-->
