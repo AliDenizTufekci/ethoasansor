@@ -7,7 +7,7 @@
 
 //*Gerekli olan akış şemasını yaptım,direkt olarak rapor.md'deki bağlantıdan ulaşılamıyor olabilir,repo ana sayfasına gelip "githubflowchartpdf" üzerinden görüntüleyebilirsiniz.//*
 
-//*Yanlışlıkla hem asansör hem deneme sınavı ödevlerini göndermişim ve hepsini ikişer kere göndermişim. Ama "kasimetho" ve "kasimmetho" dosyalarındaki bu dosyalar aynı kod sayfalarıdır.*//
+//*Yanlışlıkla hem asansör hem deneme sınavı ödevlerini göndermişim ve hepsini ikişer kere göndermişim. Ama "kasimetho" ve "kasimmetho" dosyalarının her ikisinden de ödeve ulaşmak mümkündür. Saedece ad-uzantılar farklı olabilir.*//
 
 
 ## Repo Yapısı
