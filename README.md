@@ -2,6 +2,14 @@
 
 > Bu bir ödev şablonudur. Ödevi **yapay zekâ kullanmadan**, kendi başınıza yapmanız beklenir.
 
+Şablona ek notlarım :
+//*Bu repoyu ve içindeki kod-belgeleri  yazarken her ne kadar bilmediğim bazı kavramları ve kuralları youtube ve google üzerinden öğrenmiş  ve  özellikle read.me dosyasını oluştururken bize atılan ödev şablonuna sadece birkaç gerekli satırı eklemiş ( ki bunun sebebi zaten şablon raporun yeteri kadar açıklayıcı olması ve raporda da repo'nun kopyalanıp üzerine eklemelerle inşa edilebileceğinin belirtilmiş olmasıdır.) olsam da yazdığım tüm kodların ana kod yapısı, mühendisliği ve yazımı bana aittir. Ancak çok fazla kez kopyala - yapıştır kullandığım (bunların hepsi, bu ödeve bağlı olarak java'da "KENDİM" yazdığım kodlardan kopyalanıp süreci hızlandırmak için kullanılmıştır ancak yanına not bıraktığım 1 ya da 2 kod hariç hiçbir kodda doğrudan AI yardımı alınmamıştır.//*
+
+//*Gerekli olan akış şemasını yaptım,direkt olarak rapor.md'deki bağlantıdan ulaşılamıyor olabilir,repo ana sayfasına gelip "githubflowchartpdf" üzerinden görüntüleyebilirsiniz.//*
+
+//*Yanlışlıkla hem asansör hem deneme sınavı ödevlerini göndermişim ve hepsini ikişer kere göndermişim. Ama "kasimetho" ve "kasimmetho" dosyalarındaki bu dosyalar aynı kod sayfalarıdır.*//
+
+
 ## Repo Yapısı
 
 ```
@@ -73,8 +81,3 @@ Mevcut kat 3, hedef kat 8 iken asansörün geçtiği tüm katları sırasıyla e
 Bu repoyu kendi hesabınıza kopyalayın, çalışmanızı commit'leyip sistemin belirttiği şekilde teslim edin.
 
 
-//*Bu repoyu ve içindeki kod-belgeleri  yazarken her ne kadar bilmediğim bazı kavramları ve kuralları youtube ve google üzerinden öğrenmiş  ve  özellikle read.me dosyasını oluştururken bize atılan ödev şablonuna sadece birkaç gerekli satırı eklemiş ( ki bunun sebebi zaten şablon raporun yeteri kadar açıklayıcı olması ve raporda da repo'nun kopyalanıp üzerine eklemelerle inşa edilebileceğinin belirtilmiş olmasıdır.) olsam da yazdığım tüm kodların ana kod yapısı, mühendisliği ve yazımı bana aittir.//*
-
-//*Gerekli olan akış şemasını yaptım,direkt olarak rapor.md'deki bağlantıdan ulaşılamıyor olabilir,repo ana sayfasına gelip "githubflowchartpdf" üzerinden görüntüleyebilirsiniz.//*
-
-//*Yanlışlıkla hem asansör hem deneme sınavı ödevlerini göndermişim ve hepsini ikişer kere göndermişim. Ama "kasimetho" ve "kasimmetho" dosyalarındaki bu dosyalar aynı kod sayfalarıdır.*//
